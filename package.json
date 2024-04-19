@@ -1,6 +1,6 @@
 {
-  "name": "nihalasim-simple-numberguessing1",
-  "version": "1.0.1",
+  "name": "nihalasim-simple-numberguessing2",
+  "version": "1.0.2",
   "description": "this is simple cli number guessing game",
   "main": "index.js",
   "type": "module",
